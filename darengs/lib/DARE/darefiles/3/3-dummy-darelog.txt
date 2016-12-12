@@ -1,0 +1,53 @@
+2011-10-03 15:04:22,174 INFO Job id  is 3
+2011-10-03 15:04:22,175 INFO RESOURCES used are 1
+2011-10-03 15:04:22,571 INFO jd.number_of_processes 2
+2011-10-03 15:04:22,571 INFO jd exec /bin/ln
+2011-10-03 15:04:22,573 INFO jd.number_of_processes 2
+2011-10-03 15:04:22,574 INFO jd exec /bin/ln
+2011-10-03 15:04:27,579 INFO Current states: {'Unknown': 2}
+2011-10-03 15:04:32,595 INFO Current states: {'Running': 2}
+2011-10-03 15:04:37,611 INFO Current states: {'Done': 2}
+2011-10-03 15:04:37,612 INFO STEP0 Runtime: 15.0975420475
+2011-10-03 15:04:37,625 INFO jd.number_of_processes 2
+2011-10-03 15:04:37,626 INFO jd exec bwa
+2011-10-03 15:04:37,627 INFO jd.number_of_processes 2
+2011-10-03 15:04:37,628 INFO jd exec bwa
+2011-10-03 15:04:42,670 INFO Current states: {'Unknown': 2, 'Done': 2}
+2011-10-03 15:04:47,696 INFO Current states: {'Running': 2, 'Done': 2}
+2011-10-03 15:04:52,722 INFO Current states: {'Running': 2, 'Done': 2}
+2011-10-03 15:04:57,749 INFO Current states: {'Running': 1, 'Done': 3}
+2011-10-03 15:05:02,776 INFO Current states: {'Done': 4}
+2011-10-03 15:05:02,777 INFO STEP1 Runtime: 25.1646459103
+2011-10-03 15:05:02,790 INFO jd.number_of_processes 2
+2011-10-03 15:05:02,791 INFO jd exec bwa
+2011-10-03 15:05:02,792 INFO jd.number_of_processes 2
+2011-10-03 15:05:02,793 INFO jd exec bwa
+2011-10-03 15:05:07,818 INFO Current states: {'Unknown': 2, 'Done': 4}
+2011-10-03 15:05:12,853 INFO Current states: {'Done': 6}
+2011-10-03 15:05:12,854 INFO STEP2 Runtime: 10.076267004
+2011-10-03 15:05:12,868 INFO jd.number_of_processes 2
+2011-10-03 15:05:12,869 INFO jd exec samtools
+2011-10-03 15:05:12,870 INFO jd.number_of_processes 2
+2011-10-03 15:05:12,871 INFO jd exec samtools
+2011-10-03 15:05:17,906 INFO Current states: {'Unknown': 2, 'Done': 6}
+2011-10-03 15:05:22,963 INFO Current states: {'Done': 8}
+2011-10-03 15:05:22,963 INFO STEP3 Runtime: 10.1094470024
+2011-10-03 15:05:22,977 INFO jd.number_of_processes 2
+2011-10-03 15:05:22,977 INFO jd exec samtools
+2011-10-03 15:05:22,979 INFO jd.number_of_processes 2
+2011-10-03 15:05:22,979 INFO jd exec samtools
+2011-10-03 15:05:28,024 INFO Current states: {'Unknown': 2, 'Done': 8}
+2011-10-03 15:05:33,083 INFO Current states: {'Done': 10}
+2011-10-03 15:05:33,084 INFO STEP4 Runtime: 10.1203808784
+2011-10-03 15:05:33,097 INFO jd.number_of_processes 2
+2011-10-03 15:05:33,098 INFO jd exec samtools
+2011-10-03 15:05:33,099 INFO jd.number_of_processes 2
+2011-10-03 15:05:33,100 INFO jd exec samtools
+2011-10-03 15:05:38,156 INFO Current states: {'Unknown': 2, 'Done': 10}
+2011-10-03 15:05:43,222 INFO Current states: {'Done': 12}
+2011-10-03 15:05:43,222 INFO STEP5 Runtime: 10.1380050182
+2011-10-03 15:05:43,236 INFO jd.number_of_processes 2
+2011-10-03 15:05:43,236 INFO jd exec /opt/macs140/bin/macs14
+2011-10-03 15:05:48,302 INFO Current states: {'Unknown': 1, 'Done': 12}
+2011-10-03 15:05:53,373 INFO Current states: {'Done': 13}
+2011-10-03 15:05:53,374 INFO STEP6 Runtime: 10.1511890888

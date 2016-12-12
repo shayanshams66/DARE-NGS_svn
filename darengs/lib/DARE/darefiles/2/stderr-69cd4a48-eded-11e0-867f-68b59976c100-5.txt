@@ -1,0 +1,4 @@
+[bwa_aln_core] convert to sequence coordinate... 0.08 sec
+[bwa_aln_core] refine gapped alignments... 0.09 sec
+[bwa_aln_core] print alignments... 0.12 sec
+[bwa_aln_core] 100000 sequences have been processed.

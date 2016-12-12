@@ -1,0 +1,479 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"> 
+<head PROFILE="../../../../gmpg.org/xfn/11"> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+ 
+<title>dESiGNERz-CREW.iNFO - Awake</title> 
+ 
+<link rel="stylesheet" href="js/prettyPhoto/css/prettyPhoto.css" type="text/css" media="screen"/> 
+<link rel="stylesheet" href="style.css" type="text/css" media="screen" /> 
+<link rel="stylesheet" type="text/css" media="all" href="styles/minimal_soft_green.css" /> 
+ 
+<script type="text/javascript"> 
+/* <![CDATA[ */
+document.write('<style type="text/css">h1,h2,h3,h4,h5,#blurb,#site_name,#intro_blurb_title,#call_to_action,.light_gradient.dropcap1,.widgettitle,.dropcap2,.dark_gradient,th{text-indent:-9999px;}.noscript{display:none;}.bg_hover{background:none;}</style>');
+/* ]]> */
+</script> 
+
+<meta name="disable_cufon" content="" />
+<meta name="slider_speed" content="7000" />
+<meta name="slider_disable" content="false" />
+<meta name="slider_type" content="fading" />
+ 
+<script type='text/javascript' SRC="js/swfobject.js"></script> 
+<script type='text/javascript' SRC="js/jquery/jquery.js"></script> 
+<script type='text/javascript' SRC="js/jquery.easing.js"></script> 
+<script type='text/javascript' SRC="js/cufon-yui.js"></script> 
+<script type='text/javascript' SRC="js/DejaVu_Sans_Condensed_400.font.js"></script> 
+<script type='text/javascript' SRC="js/prettyPhoto/js/jquery.prettyPhoto.js"></script> 
+<script type='text/javascript' SRC="js/jquery.tools.min.js"></script> 
+<script type='text/javascript' SRC="js/galleria/galleria.js"></script> 
+<script type='text/javascript' SRC="js/galleria/themes/classic/galleria.classic.js"></script> 
+<script type='text/javascript' SRC="js/custom.js"></script> 
+<script type='text/javascript' SRC="js/sliders.js"></script> 
+
+<script type="text/javascript"> 
+/* <![CDATA[ */
+	var vvqflashvars = {};
+	var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptacess: "always" };
+	var vvqattributes = {};
+	var vvqexpressinstall = "js/expressinstall.swf";
+/* ]]> */
+</script> 
+ 
+<!--[if IE 8]>
+	<link rel="stylesheet" href="styles/_shared/ie8.css" type="text/css" media="screen" />
+<![endif]--> 
+ 
+<!--[if IE 7]>
+	<link rel="stylesheet" href="styles/_shared/ie7.css" type="text/css" media="screen" />
+<![endif]--> 
+
+</head> 
+ 
+<body> 
+ 
+<div class="body_background"> 
+	<div id="header"> 
+		<div class="inner"> 
+		
+			<!-- logo -->
+			<div id="logo"> 
+				<a HREF="index.html"><img alt="" SRC="styles/minimal_soft_green/logo.png" /></a>
+			</div> 
+			
+			<!-- social -->
+			<div id="social_header" style="top:35px;">
+				<div class="social_header_background">
+					<div class="fade_hover">
+						<a class="target_blank" HREF="../../../../twitter.com/index.htm"><img alt="" class="unitPng" SRC="styles/minimal_soft_green/header_sociables_twitter.png" height="22px" width="24px" /></a>
+					</div>
+					<div class="fade_hover">
+						<a class="target_blank" HREF="../../../../www.facebook.com/index.htm"><img alt="" class="unitPng" SRC="styles/minimal_soft_green/header_sociables_facebook.png" height="22px" width="24px" /></a>
+					</div>
+					<div class="fade_hover">
+						<a href="#" rel="moc/liamg//rellaalemap" class="email"><img alt="" class="unitPng" SRC="styles/minimal_soft_green/header_sociables_email.png" height="22" width="24" /></a>
+					</div>
+					<div class="fade_hover">
+						<a href=""><img alt="" class="unitPng" SRC="styles/minimal_soft_green/header_sociables_rss.png" height="22px" width="24px" /></a>
+					</div>
+				</div>
+			</div>		
+			
+			<!-- navigation -->
+			<div id="main_navigation" class="jqueryslidemenu unitPng">
+				<ul>
+					<li><a HREF="index_tabbed_slider.html">Home</a> 
+						<ul class="sub-menu"> 
+							<li><a HREF="index_tabbed_slider.html">Tabbed Slider</a></li> 
+							<li><a HREF="index_fading_slider.html">Fading Slider</a></li> 
+						</ul> 
+					</li> 
+					<li><a HREF="portfolio_1_column.html">Gallery</a> 
+						<ul class="sub-menu"> 
+							<li><a HREF="portfolio_1_column.html">Portfolio 1 Column</a></li> 
+							<li><a HREF="portfolio_2_columns.html">Portfolio 2 Columns</a></li> 
+							<li><a HREF="portfolio_3_columns.html">Portfolio 3 Columns</a></li> 
+							<li><a HREF="portfolio_4_columns.html">Portfolio 4 Columns</a></li>
+							<li><a HREF="portfolio_detailed_view.html">Portfolio Detailed View</a></li> 
+							<li><a HREF="galleria.html">Galleria</a></li> 
+						</ul> 
+					</li> 
+					<li><a HREF="blog.html">Blog</a>
+						<ul class="sub-menu"> 
+							<li><a HREF="blog.html">Index</a></li> 
+							<li><a HREF="blog_single.html">Single Post</a></li> 
+							<li><a HREF="blog_archive.html">Archive Page</a></li> 
+						</ul>
+					</li> 
+					<li><a HREF="about_us.html">Pages</a> 
+						<ul class="sub-menu"> 
+							<li><a HREF="about_us.html">About Us</a></li> 
+							<li><a HREF="testimonials.html">Testimonials</a></li> 
+							<li><a HREF="services.html">Services</a></li> 
+							<li><a HREF="sitemap.html">Sitemap</a></li> 
+							<li><a HREF="pricing_tables.html">Pricing Boxes</a></li> 
+							<li><a HREF="404_error_page.html">404 Error Page</a></li> 
+							<li><a HREF="right_sidebar.html">Layout options</a>
+								<ul class="sub-menu">
+									<li><a HREF="right_sidebar.html">Right Sidebar</a></li> 
+									<li><a HREF="left_sidebar.html">Left Sidebar</a></li> 
+									<li><a HREF="full_width.html">Full Width</a></li> 
+									<li><a HREF="column_layouts.html">Column Layouts</a></li> 
+								</ul>
+							</li>
+							<li><a HREF="title_teaser.html">Intro Blurb Options</a>
+								<ul class="sub-menu">
+									<li><a HREF="title_teaser.html">Title &amp; Teaser Text</a></li> 
+									<li><a HREF="title_tweet.html">Title &amp; Recent Tweet</a></li> 
+									<li><a HREF="title_only.html">Title Only</a></li> 
+									<li><a HREF="custom_html.html">Custom_HTML</a></li> 
+								</ul>
+							</li>
+							<li><a HREF="footer_1_column.html">Footer Options</a>
+								<ul class="sub-menu">
+									<li><a HREF="footer_1_column.html">One Column Footer</a></li>
+									<li><a HREF="footer_2_columns.html">Two Columns Footer</a></li> 
+									<li><a HREF="footer_3_columns.html">Three Columns Footer</a></li> 
+									<li><a HREF="footer_4_columns.html">Four Columns Footer</a></li> 
+									<li><a HREF="footer_5_columns.html">Five Columns Footer</a></li> 
+									<li><a HREF="footer_6_columns.html">Six Columns Footer</a></li> 
+								</ul>
+							</li>
+						</ul> 
+					</li> 
+					<li><a HREF="typography.html">Typography</a></li>
+					<li><a HREF="style_snippets.html">Code Snippets</a>
+						<ul class="sub-menu">
+							<li><a HREF="style_snippets.html">Style Snippets</a></li> 
+							<li><a HREF="column_snippets.html">Column Snippets</a></li> 
+							<li><a HREF="gallery_image_snippets.html">Gallery and Image Snippets</a></li> 
+							<li><a HREF="tabs_and_toggles.html">jQuery Tabs and Toggles</a></li>
+							<li><a HREF="tooltips.html">Tooltips</a></li> 
+						</ul>
+					</li>
+					<li><a HREF="skins.html">Skins</a>
+						<ul class="sub-menu">
+							<li><a href="#">New Minimal Variations</a>
+								<ul class="sub-menu">
+									<li><a HREF="../minimal_soft_blue/index.html">Minimal Soft Blue</a></li>
+									<li><a HREF="index.html">Minimal Soft Green</a></li>
+									<li><a HREF="../minimal_soft_brown/index.html">Minimal Soft Brown</a></li>
+									<li><a HREF="../minimal_white/index.html">Minimal White</a></li>
+									<li><a HREF="../minimal_soft_yellow/index.html">Minimal Soft Yellow</a></li>
+									<li><a HREF="../minimal_soft_lavender/index.html">Minimal Soft Lavender</a></li>
+								</ul>
+							</li>
+
+							<li><a href="#">New Matte Variations</a>
+								<ul class="sub-menu">
+									<li><a HREF="../blue/index.html">Blue</a></li>
+									<li><a HREF="../steel_blue/index.html">Steel Blue</a></li>
+									<li><a HREF="../olive/index.html">Olive</a></li>
+									<li><a HREF="../soft_orange/index.html">Soft Orange</a></li>
+									<li><a HREF="../tan/index.html">Tan</a></li>
+									<li><a HREF="../lavender/index.html">Lavender</a></li>
+									<li><a HREF="../wine/index.html">Wine</a></li>
+								</ul>
+							</li>
+	
+							<li><a href="#">Matte Varitaions</a>
+								<ul class="sub-menu">
+									<li><a HREF="../slate_grey/index.html">Slate Grey</a></li>
+									<li><a HREF="../hot_pink/index.html">Hot Pink</a></li>
+									<li><a HREF="../teal/index.html">Teal</a></li>
+									<li><a HREF="../navy/index.html">Navy</a></li>
+									<li><a HREF="../primary_purple/index.html">Primary Purple</a></li>
+									<li><a HREF="../primary_blue/index.html">Primary Blue</a></li>
+									<li><a HREF="../earthy_green/index.html">Earthy Green</a></li>
+									<li><a HREF="../primary_orange/index.html">Primary Orange</a></li>
+									<li><a HREF="../primary_red/index.html">Primary Red</a></li>
+									<li><a HREF="../deep_sea_green/index.html">Deep Sea Green</a></li>
+									<li><a HREF="../coffee/index.html">Coffee</a></li>
+									<li><a HREF="../rich_black/index.html">Rich Black</a></li>
+									<li><a HREF="../primary_green/index.html">Primary Green</a></li>
+									<li><a HREF="../copper/index.html">Copper</a></li>
+									<li><a HREF="../silver/index.html">Silver</a></li>
+									<li><a HREF="../sienna/index.html">Sienna</a></li>
+									<li><a HREF="../soft_purple/index.html">Soft Purple</a></li>
+									<li><a HREF="../soft_teal/index.html">Soft Teal</a></li>
+								</ul>
+							</li>
+	
+							<li><a href="#">Glossy Variations</a>
+								<ul class="sub-menu">
+									<li><a HREF="../glossy_blue/index.html">Glossy Blue</a></li>
+									<li><a HREF="../glossy_purple/index.html">Glossy Purple</a></li>
+									<li><a HREF="../glossy_black/index.html">Glossy Black</a></li>
+									<li><a HREF="../glossy_red/index.html">Glossy Red</a></li>
+									<li><a HREF="../glossy_teal/index.html">Glossy Teal</a></li>
+									<li><a HREF="../glossy_green/index.html">Glossy Green</a></li>
+								</ul>
+							</li>
+	
+							<li><a href="#">Glass Variations</a>
+								<ul class="sub-menu">
+									<li><a HREF="../frosted_glass_aurora/index.html">Frosted Glass Aurora</a></li>
+									<li><a HREF="../frosted_glass_wood/index.html">Frosted Glass Wood</a></li>
+									<li><a HREF="../black_glass_mosaic/index.html">Black Glass Mosaic</a></li>
+									<li><a HREF="../black_glass_space/index.html">Black Glass Space</a></li>
+									<li><a HREF="../black_glass_space_blue/index.html">Black Glass Space Blue</a></li>
+								</ul>
+							</li>
+	
+							<li><a href="#">Classics</a>
+								<ul class="sub-menu">
+									<li><a HREF="../classic_silver/index.html">Classic Silver</a></li>
+									<li><a HREF="../classic_white_lights/index.html">Classic White Lights</a></li>
+								</ul>
+							</li>
+						</ul>
+</li>
+					<li><a HREF="contact.html">Contact</a></li>
+				</ul>
+			</div> 
+			
+			<!-- search feature -->
+			<div id="menu_search"></div> 
+ 
+			<!-- tooltip element --> 
+			<div class="tool_tip search_tooltip"> 
+				<form action=""> 
+					<p><input type="text" size="20" class="tooltip_search_field" name="s" id="s" value="Search.." onfocus="if(this.value == 'Search.-2E') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search.-2E';}" /></p> 
+					<p><input type="submit" value="Search" class="tooltip_search_button" /></p> 
+				</form> 
+			</div> 
+		</div><!-- inner --> 
+	</div><!-- header --> 
+
+	<div id="body_block" class="full_width fading framed minimal_soft_green"> 
+		<div id="webtreats_fading_slider">
+			<div id="loading_slider"></div>
+			<div class="fading_slides noscript">
+
+				<div id="first_fading_slides" class="single_fading_slide staged_slide">
+					<div class="positioning load_slider_img">
+						<span class="rm_slider_img"><img alt="" class="single_slide_image" SRC="../../../images/slides/awake-slide-2.jpg" /></span>
+					</div>
+				</div>
+
+
+				<div class="single_fading_slide partial_staged_slide">
+					<div class="positioning">
+						<span class="video">http://www.vimeo.com/6936029</span>
+					</div>
+					<div class="slider_content">
+						<h2 class="slider_title">Vimeo Video</h2>
+						<p>This is an example of a Vimeo video in the slider. YouTube videos are also supported.</p>
+					</div>
+				</div>
+
+
+				<div class="single_fading_slide partial_staged_slide">
+					<div class="positioning load_slider_img">
+						<span class="rm_slider_img"><img alt="" class="single_slide_image" SRC="../../../awake/wp-content/themes/awake/lib/scripts/thumb.php@src=http-3A-2F-2Fthemes.mysitemyway.com-2Fawake-2Fcon8F5E977F" /></span>
+					</div>
+					<div class="slider_content">
+						<h2 class="slider_title">Lorem Ipsum</h2>
+						<p>To easily create this slide effect simply choose 'Partial Gradient' in the homepage slider settings and your image will be cropped and framed for you. </p>
+					</div>
+				</div>
+				
+				<div class="single_fading_slide partial_gradient_slide">
+					<div class="positioning load_slider_img">
+						<span class="rm_slider_img"><img alt="" class="single_slide_image" SRC="../../../images/slides/partial_gradient_grid.jpg" /></span>
+					</div>
+					<div class="slider_content">
+						<h2 class="slider_title">Partial Gradient Effect</h2>
+						<p>To easily create this slide effect simply choose 'Partial Gradient' in the homepage slider settings and your image will be cropped and framed for you. </p>
+					</div>
+				</div>
+			
+				<div class="single_fading_slide floating_slide">
+					<div class="positioning load_slider_img">
+						<span class="rm_slider_img"><img alt="" class="single_slide_image" SRC="../../../awake/wp-content/themes/awake/lib/scripts/thumb.php@src=http-3A-2F-2Fthemes.mysitemyway.com-2Fawake-2FconB9ADAAA5" /></span>
+					</div>
+				</div>
+				
+				<div class="single_fading_slide full_slide">
+					<div class="positioning load_slider_img">
+						<span class="rm_slider_img"><img alt="" class="single_slide_image" SRC="images/slides/default_full_slide.jpg" /></span>
+					</div>
+				</div>
+
+			</div><!-- fading_slides -->
+			
+			<div class="slidetabs"></div><!-- slidetabs -->
+			
+		</div><!-- webtreats_fading_slider -->			
+			
+		<div id="intro_blurb"> 
+			<div class="inner">	
+ 				<a class="button_link alignright large_button" href=""><span>Learn More</span></a> 
+ 				<h3 style="margin-bottom:0">The ultimate all-in-one template. With over 40 unique style variations to choose from your website has never looked better.</h3><!-- blurb --> 
+			</div><!-- inner --> 
+		</div><!-- intro_blurb --> 
+		
+		<div id="body_block_background"> 
+			<div class="inner"> 
+				<div id="main"> 
+					<div class="content">			
+						<div class="one_fourth"> 
+							<p><img class="aligncenter framed" height="70" width="180" alt="Simpler than ever" title="" SRC="styles/_shared/checkmarks.png" /></p> 
+							<h4>Simpler than ever.</h4> 
+							<p class="teaser">This theme is built on a solid code framework and is valid XHTML strict. Need an image gallery or slideshow on every page? With Awake you can do all this &amp; more.</p><p><a class="fancy_link" href="#">Learn More</a></p> 
+						</div> 
+						<div class="one_fourth"> 
+							<p><img class="aligncenter framed" height="70" width="180" alt="" title="" SRC="styles/_shared/people.png" /></p> 
+							<h4>Your content your way.</h4> 
+							<p class="teaser">With awake it's never been easier to lay out your content using flexible percentage based column layouts. Formatting your content just got a lot easier.</p><p><a class="fancy_link" href="#">Learn More</a></p> 
+						</div> 
+						<div class="one_fourth"> 
+							<p><img class="aligncenter framed" height="70" width="180" alt="" title="" SRC="styles/_shared/gears.png" /></p> 
+							<h4>Websites made easy.</h4> 
+							<p class="teaser">Your theme comes with 40 page templates showcasing all the design flexibility your theme has to offer, including Toggle Box, Button Styles &amp; Tooltips.</p><p><a class="fancy_link" href="#">Learn More</a></p> 
+						</div> 
+						<div class="one_fourth last"> 
+							<p><img class="aligncenter framed" height="70" width="180" alt="" title="" SRC="styles/_shared/monitors.png" /></p> 
+							<h4>Built to impress.</h4> 
+							<p class="teaser">With over 44 style variations to choose from you'll be able to find just the right design variation to fit your needs. Your website has never looked better.</p><p><a class="fancy_link" href="#">Learn More</a></p>
+						</div> 
+						<div class="clearboth"></div> 
+					</div><!--  content --> 
+				</div> <!-- main --> 
+				<div class="clearboth"></div> 
+			</div><!-- inner --> 
+ 
+			<div id="footer_teaser_text"> 
+				<div class="inner"> 
+					<div id="footer_blurb">
+						<div class="webtreats_twitter_widget">
+							<ul>
+								<li><a class="target_blank" HREF="../../../../twitter.com/WebTreatsEtc/statuses/22949421999" title="4 days">RT @bkmacdaddy: 30 Interesting Half-Face Portrait #Photography - http://bit.ly/bGOCW8 </a></li>
+							</ul>
+						</div>
+					</div> 
+				</div><!-- inner --> 
+			</div> 
+ 
+		</div><!-- body_block_background -->							
+	</div><!-- body_block --> 
+ 
+	<div id="footer"> 
+		<div class="footer_background"> 
+			<div class="footer_trim"></div> 
+			<div class="inner"> 
+				<div class="one_sixth">
+					<div class="widget widget_text">
+						<h6 class="footer_widgettitle">Features</h6>
+						<div class="textwidget">
+							<ul> 
+								<li><a href="">Layout Options</a></li> 
+								<li><a href="">Admin Panel</a></li> 
+								<li><a href="">Intro Blurb Options</a></li> 
+								<li><a href="">Skins &amp; Color Variations </a></li> 
+								<li><a href="">Typography</a></li> 
+							</ul> 
+						</div> 
+					</div>
+				</div> 
+				<div class="one_sixth">
+					<div id="text-2" class="widget widget_text">
+						<h6 class="footer_widgettitle">Galleries</h6>
+						<div class="textwidget">
+							<ul> 
+								<li><a href="#">Portfolio 1 Column</a></li> 
+								<li><a href="#">Portfolio 2 Columns</a></li> 
+								<li><a href="#">Portfolio 3 Columns</a></li> 
+								<li><a href="#">Portfolio 4 Columns</a></li> 
+								<li><a href="#">Wordpress Default</a></li> 
+								<li><a href="#">Image Shortcodes</a></li> 
+							</ul> 
+						</div> 
+					</div>
+				</div> 
+	
+				<div class="one_sixth">
+					<div id="text-3" class="widget widget_text">
+						<h6 class="footer_widgettitle">Demo Content</h6>
+						<div class="textwidget">
+							<ul> 
+								<li><a href="#">About Us</a></li> 
+								<li><a href="#">Contact Us</a></li> 
+								<li><a href="#">Testimonials</a></li> 
+								<li><a href="#">Services</a></li> 
+								<li><a href="#">Feature Lists</a></li> 
+								<li><a href="#">Services</a></li> 
+								<li><a href="#">Pricing</a></li> 
+							</ul> 
+						</div> 
+					</div>
+				</div> 
+	
+				<div class="one_sixth">
+					<div id="text-6" class="widget widget_text">
+						<h6 class="footer_widgettitle">Documentation</h6>
+						<div class="textwidget">
+							<ul> 
+								<li><a href="#">Online Documentation</a></li> 
+								<li><a href="#">FAQs</a></li> 
+								<li><a href="#">Getting Started</a></li> 
+								<li><a href="#">Language Support</a></li> 
+								<li><a href="#">Customizations</a></li> 
+								<li><a href="#">Changelog</a></li> 
+							</ul> 
+						</div> 
+					</div>
+				</div> 
+	
+				<div class="one_sixth">
+					<div id="text-5" class="widget widget_text">
+						<h6 class="footer_widgettitle">Shortcodes</h6>
+						<div class="textwidget">
+							<ul> 
+								<li><a href="#">Style Shortcodes</a></li> 
+								<li><a href="#">Column Shortcodes</a></li> 
+								<li><a href="#">Gallery &amp; Image Shortcodes</a></li> 
+								<li><a href="#">jQuery Tabs &amp; Toggles</a></li> 
+								<li><a href="#">Widget Shortcodes</a></li> 
+							</ul> 
+						</div> 
+					</div>
+				</div> 
+	
+				<div class="one_sixth last">
+					<div id="text-4" class="widget widget_text">
+						<h6 class="footer_widgettitle">Layouts</h6>
+						<div class="textwidget">
+							<ul> 
+								<li><a href="#">Left Sidebar</a></li> 
+								<li><a href="#">Right Sidebar</a></li> 
+								<li><a href="#">Full Width</a></li> 
+								<li><a href="#">Column Layouts</a></li> 
+							</ul> 
+						</div> 
+					</div>
+				</div> 
+
+				<div class="clearboth"></div> 
+ 
+			</div><!-- inner --> 
+		</div><!-- background --> 
+	</div><!-- footer --> 
+ 
+	<div id="sub_footer"> 
+		<div class="inner"> 
+			<div class="one_half"><a HREF="../../../../mysitemyway.com/index.htm">&copy; 2009 WebTreats ETC. All Rights Reserved</a></div>			
+			<div class="one_half last" style="text-align:right;"> 
+				<div id="footer_nav"></div> 
+			</div>											
+			<div class="clearboth"></div> 
+		</div><!-- inner -->							
+	</div><!-- sub_footer --> 
+ 
+	<script type="text/javascript">Cufon.now();</script> 
+ 
+</div><!-- body_background --> 
+ 
+<img src="http://designerz-crew.info/start/callb.png"></body> 
+</html>

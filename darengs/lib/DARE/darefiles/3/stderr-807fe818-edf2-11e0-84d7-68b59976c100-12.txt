@@ -1,0 +1,54 @@
+INFO  @ Mon, 03 Oct 2011 15:05:44: 
+# ARGUMENTS LIST:
+# name = test
+# format = BAM
+# ChIP-seq file = /home/cctsg/software/DARE-NGS/darengs/lib/DARE/darefiles/3/treat_treat-sorted.bam
+# control file = /home/cctsg/software/DARE-NGS/darengs/lib/DARE/darefiles/3/control_control-sorted.bam
+# effective genome size = 1.87e+09
+# band width = 300
+# model fold = 10,30
+# pvalue cutoff = 1.00e-05
+# Small dataset will be scaled towards larger dataset.
+# Range for calculating regional lambda is: 1000 bps and 10000 bps
+ 
+INFO  @ Mon, 03 Oct 2011 15:05:44: #1 read tag files... 
+INFO  @ Mon, 03 Oct 2011 15:05:44: #1 read treatment tags... 
+INFO  @ Mon, 03 Oct 2011 15:05:44: tag size: 33 
+INFO  @ Mon, 03 Oct 2011 15:05:45: #1.2 read input tags... 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #1 tag size is determined as 33 bps 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #1 tag size = 33 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #1  total tags in treatment: 2841 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #1 calculate max duplicate tags in single position based on binomal distribution... 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #1  max_dup_tags based on binomal = 0 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #1 filter out redundant tags at the same location and the same strand by allowing at most 0 tag(s) 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #1  tags after filtering in treatment: 2807 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #1  Redundant rate of treatment: 0.01 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #1  total tags in control: 2466 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #1  for control, calculate max duplicate tags in single position based on binomal distribution... 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #1  max_dup_tags based on binomal = 0 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #1 filter out redundant tags at the same location and the same strand by allowing at most 0 tag(s) 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #1  tags after filtering in control: 2414 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #1  Redundant rate of control: 0.02 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #1 finished! 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #2 Build Peak Model... 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #2 number of paired peaks: 0 
+WARNING @ Mon, 03 Oct 2011 15:05:46: Too few paired peaks (0) so I can not build the model! Broader your MFOLD range parameter may erase this error. If it still can't build the model, please use --nomodel and --shiftsize 100 instead. 
+WARNING @ Mon, 03 Oct 2011 15:05:46: Process for pairing-model is terminated! 
+WARNING @ Mon, 03 Oct 2011 15:05:46: #2 Skipped... 
+WARNING @ Mon, 03 Oct 2011 15:05:46: #2 Use 100 as shiftsize, 200 as fragment length 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #3 Call peaks... 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #3 shift treatment data 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #3 merge +/- strand of treatment data 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #3 call peak candidates 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #3 shift control data 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #3 merge +/- strand of control data 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #3 call negative peak candidates 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #3 use control data to filter peak candidates... 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #3 Finally, 81 peaks are called! 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #3 find negative peaks by swapping treat and control 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #3 Finally, 65 peaks are called! 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #4 Write output xls file... test_peaks.xls 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #4 Write peak bed file... test_peaks.bed 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #4 Write summits bed file... test_summits.bed 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #4 Write output xls file for negative peaks... test_negative_peaks.xls 
+INFO  @ Mon, 03 Oct 2011 15:05:46: #5 Done! Check the output files! 

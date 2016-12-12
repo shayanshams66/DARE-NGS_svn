@@ -1,0 +1,333 @@
+2011-10-03 14:27:56,598 INFO Job id  is 2
+2011-10-03 14:27:56,599 INFO RESOURCES used are 1
+2011-10-03 14:27:56,999 INFO jd.number_of_processes 2
+2011-10-03 14:27:57,000 INFO jd exec /bin/ln
+2011-10-03 14:27:57,001 INFO jd.number_of_processes 2
+2011-10-03 14:27:57,002 INFO jd exec /bin/ln
+2011-10-03 14:28:02,007 INFO Current states: {'Unknown': 2}
+2011-10-03 14:28:07,023 INFO Current states: {'Running': 2}
+2011-10-03 14:28:12,039 INFO Current states: {'Done': 2}
+2011-10-03 14:28:12,040 INFO STEP0 Runtime: 15.095042944
+2011-10-03 14:28:12,053 INFO jd.number_of_processes 2
+2011-10-03 14:28:12,053 INFO jd exec bwa
+2011-10-03 14:28:12,055 INFO jd.number_of_processes 2
+2011-10-03 14:28:12,055 INFO jd exec bwa
+2011-10-03 14:28:17,097 INFO Current states: {'Unknown': 2, 'Done': 2}
+2011-10-03 14:28:22,122 INFO Current states: {'Running': 2, 'Done': 2}
+2011-10-03 14:28:27,148 INFO Current states: {'Running': 2, 'Done': 2}
+2011-10-03 14:28:32,173 INFO Current states: {'Running': 1, 'Done': 3}
+2011-10-03 14:28:37,199 INFO Current states: {'Done': 4}
+2011-10-03 14:28:37,199 INFO STEP1 Runtime: 25.1593101025
+2011-10-03 14:28:37,213 INFO jd.number_of_processes 2
+2011-10-03 14:28:37,214 INFO jd exec bwa
+2011-10-03 14:28:37,215 INFO jd.number_of_processes 2
+2011-10-03 14:28:37,215 INFO jd exec bwa
+2011-10-03 14:28:42,241 INFO Current states: {'Unknown': 2, 'Done': 4}
+2011-10-03 14:28:47,277 INFO Current states: {'Done': 6}
+2011-10-03 14:28:47,277 INFO STEP2 Runtime: 10.0775940418
+2011-10-03 14:28:47,292 INFO jd.number_of_processes 2
+2011-10-03 14:28:47,292 INFO jd exec samtools
+2011-10-03 14:28:47,294 INFO jd.number_of_processes 2
+2011-10-03 14:28:47,294 INFO jd exec samtools
+2011-10-03 14:28:52,329 INFO Current states: {'Unknown': 2, 'Done': 6}
+2011-10-03 14:28:57,374 INFO Current states: {'Done': 8}
+2011-10-03 14:28:57,374 INFO STEP3 Runtime: 10.0969040394
+2011-10-03 14:28:57,388 INFO jd.number_of_processes 2
+2011-10-03 14:28:57,388 INFO jd exec samtools
+2011-10-03 14:28:57,390 INFO jd.number_of_processes 2
+2011-10-03 14:28:57,390 INFO jd exec samtools
+2011-10-03 14:29:02,436 INFO Current states: {'Unknown': 2, 'Done': 8}
+2011-10-03 14:29:07,508 INFO Current states: {'Done': 10}
+2011-10-03 14:29:07,509 INFO STEP4 Runtime: 10.1341130733
+2011-10-03 14:29:07,522 INFO jd.number_of_processes 2
+2011-10-03 14:29:07,523 INFO jd exec samtools
+2011-10-03 14:29:07,524 INFO jd.number_of_processes 2
+2011-10-03 14:29:07,525 INFO jd exec samtools
+2011-10-03 14:29:12,579 INFO Current states: {'Unknown': 2, 'Done': 10}
+2011-10-03 14:29:17,643 INFO Current states: {'Done': 12}
+2011-10-03 14:29:17,644 INFO STEP5 Runtime: 10.1346750259
+2011-10-03 14:29:17,657 INFO jd.number_of_processes 2
+2011-10-03 14:29:17,658 INFO jd exec /opt/macs140/bin/macs14
+2011-10-03 14:29:22,722 INFO Current states: {'Unknown': 1, 'Done': 12}
+2011-10-03 14:29:27,791 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:29:32,860 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:29:37,939 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:29:43,017 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:29:48,087 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:29:53,156 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:29:58,225 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:30:03,295 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:30:08,368 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:30:13,437 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:30:18,507 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:30:23,575 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:30:28,648 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:30:33,717 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:30:38,786 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:30:43,856 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:30:48,925 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:30:53,994 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:30:59,063 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:31:04,139 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:31:09,208 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:31:14,279 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:31:19,347 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:31:24,415 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:31:29,484 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:31:34,553 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:31:39,622 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:31:44,690 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:31:49,760 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:31:54,830 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:31:59,898 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:32:04,968 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:32:10,037 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:32:15,106 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:32:20,175 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:32:25,244 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:32:30,314 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:32:35,382 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:32:40,455 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:32:45,525 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:32:50,595 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:32:55,671 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:33:00,748 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:33:05,817 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:33:10,885 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:33:15,954 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:33:21,022 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:33:26,107 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:33:31,181 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:33:36,252 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:33:41,321 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:33:46,389 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:33:51,458 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:33:56,526 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:34:01,595 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:34:06,674 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:34:11,744 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:34:16,812 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:34:21,881 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:34:26,949 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:34:32,019 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:34:37,089 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:34:42,157 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:34:47,226 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:34:52,296 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:34:57,365 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:35:02,433 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:35:07,503 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:35:12,572 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:35:17,640 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:35:22,709 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:35:27,777 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:35:32,845 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:35:37,914 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:35:42,983 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:35:48,053 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:35:53,122 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:35:58,191 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:36:03,259 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:36:08,328 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:36:13,396 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:36:18,467 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:36:23,536 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:36:28,605 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:36:33,674 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:36:38,742 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:36:43,811 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:36:48,882 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:36:53,951 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:36:59,021 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:37:04,090 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:37:09,160 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:37:14,230 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:37:19,299 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:37:24,368 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:37:29,453 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:37:34,524 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:37:39,593 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:37:44,662 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:37:49,733 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:37:54,802 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:37:59,872 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:38:04,941 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:38:10,010 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:38:15,080 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:38:20,149 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:38:25,218 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:38:30,285 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:38:35,354 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:38:40,423 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:38:45,493 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:38:50,562 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:38:55,631 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:39:00,700 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:39:05,783 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:39:10,852 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:39:15,921 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:39:20,996 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:39:26,066 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:39:31,134 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:39:36,212 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:39:41,281 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:39:46,350 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:39:51,418 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:39:56,493 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:40:01,562 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:40:06,631 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:40:11,700 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:40:16,770 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:40:21,839 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:40:26,909 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:40:31,981 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:40:37,049 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:40:42,121 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:40:47,190 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:40:52,264 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:40:57,333 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:41:02,403 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:41:07,472 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:41:12,540 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:41:17,610 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:41:22,680 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:41:27,748 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:41:32,816 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:41:37,885 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:41:42,954 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:41:48,023 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:41:53,093 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:41:58,162 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:42:03,232 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:42:08,302 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:42:13,370 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:42:18,439 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:42:23,508 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:42:28,578 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:42:33,645 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:42:38,718 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:42:43,787 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:42:48,863 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:42:53,934 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:42:59,012 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:43:04,081 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:43:09,153 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:43:14,223 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:43:19,293 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:43:24,362 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:43:29,430 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:43:34,499 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:43:39,568 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:43:44,637 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:43:49,706 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:43:54,777 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:43:59,847 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:44:04,916 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:44:09,985 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:44:15,060 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:44:20,136 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:44:25,206 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:44:30,275 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:44:35,343 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:44:40,415 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:44:45,485 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:44:50,553 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:44:55,623 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:45:00,692 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:45:05,762 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:45:10,831 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:45:15,900 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:45:20,969 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:45:26,040 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:45:31,109 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:45:36,178 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:45:41,247 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:45:46,317 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:45:51,386 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:45:56,455 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:46:01,530 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:46:06,605 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:46:11,674 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:46:16,743 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:46:21,812 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:46:26,881 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:46:31,956 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:46:37,026 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:46:42,095 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:46:47,164 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:46:52,233 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:46:57,303 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:47:02,381 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:47:07,449 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:47:12,518 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:47:17,587 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:47:22,657 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:47:27,726 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:47:32,796 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:47:37,865 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:47:42,933 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:47:48,003 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:47:53,073 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:47:58,142 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:48:03,211 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:48:08,279 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:48:13,346 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:48:18,414 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:48:23,483 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:48:28,553 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:48:33,622 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:48:38,692 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:48:43,767 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:48:48,836 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:48:53,906 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:48:58,975 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:49:04,045 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:49:09,114 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:49:14,182 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:49:19,252 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:49:24,318 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:49:29,387 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:49:34,454 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:49:39,522 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:49:44,589 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:49:49,659 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:49:54,735 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:49:59,804 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:50:04,873 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:50:09,941 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:50:15,018 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:50:20,088 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:50:25,156 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:50:30,225 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:50:35,294 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:50:40,363 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:50:45,432 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:50:50,500 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:50:55,569 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:51:00,642 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:51:05,710 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:51:10,779 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:51:15,848 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:51:20,923 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:51:25,991 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:51:31,060 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:51:36,127 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:51:41,196 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:51:46,265 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:51:51,334 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:51:56,403 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:52:01,471 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:52:06,541 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:52:11,609 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:52:16,679 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:52:21,748 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:52:26,817 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:52:31,886 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:52:36,954 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:52:42,023 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:52:47,091 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:52:52,160 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:52:57,230 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:53:02,299 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:53:07,365 INFO Current states: {'Running': 1, 'Done': 12}
+2011-10-03 14:53:12,435 INFO Current states: {'Running': 1, 'Done': 12}
